@@ -1,0 +1,51 @@
+<svg width="26" height="20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g>
+        <title>background</title>
+        <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+    </g>
+    <g>
+        <title>Layer 1</title>
+        <g id="svg_1">
+            <g id="svg_2">
+                <defs transform="translate(-0.05817330628633499,0) translate(0.05817330628633499,0) ">
+                    <polygon points="17.2,0 0,0 0,20 20,20 20,11.7 17.2,11.7    " id="SVGID_1_"/>
+                </defs>
+                <clipPath transform="translate(-0.05817330628633499,0) translate(0.05817330628633499,0) " id="SVGID_2_">
+                    <use x="0" y="0" id="svg_3" xlink:href="#SVGID_1_"/>
+                </clipPath>
+                <g id="svg_4" clip-path="url(#SVGID_2_)">
+                    <path fill="#7f7f7f" id="svg_5"
+                          d="m18.3,1c0.4,0 0.7,0.3 0.7,0.7l0,16.7c0,0.4 -0.3,0.7 -0.7,0.7l-16.6,0c-0.4,-0.1 -0.7,-0.4 -0.7,-0.8l0,-16.6c0,-0.4 0.3,-0.7 0.7,-0.7l16.6,0m0,-1l-16.6,0c-1,0 -1.7,0.7 -1.7,1.7l0,16.7c0,0.9 0.7,1.6 1.7,1.6l16.7,0c0.9,0 1.7,-0.7 1.7,-1.7l0,-16.6c-0.1,-1 -0.8,-1.7 -1.8,-1.7l0,0z"/>
+                </g>
+            </g>
+            <path id="svg_6" d="m9.7,14.7c0,-5.5 4.5,-10 10,-10l4.7,0" stroke-miterlimit="10" stroke="#7f7f7f"
+                  fill="none"/>
+            <g id="svg_7">
+                <defs transform="translate(-0.05817330628633499,0) translate(0.05817330628633499,0) ">
+                    <rect height="9.4" width="6" y="0" x="19.4" id="SVGID_3_"/>
+                </defs>
+                <clipPath transform="translate(-0.05817330628633499,0) translate(0.05817330628633499,0) " id="SVGID_4_">
+                    <use x="0" y="0" id="svg_8" xlink:href="#SVGID_3_"/>
+                </clipPath>
+                <polyline id="svg_9"
+                          points="18.300000064074993,10.800000190734863 24.40000044554472,4.699999809265137 18.300000064074993,-1.399999976158142 "
+                          stroke-miterlimit="10" stroke="#7f7f7f" fill="none" clip-path="url(#SVGID_4_)"/>
+            </g>
+        </g>
+        <g id="svg_10"/>
+        <g id="svg_11"/>
+        <g id="svg_12"/>
+        <g id="svg_13"/>
+        <g id="svg_14"/>
+        <g id="svg_15"/>
+        <g id="svg_16"/>
+        <g id="svg_17"/>
+        <g id="svg_18"/>
+        <g id="svg_19"/>
+        <g id="svg_20"/>
+        <g id="svg_21"/>
+        <g id="svg_22"/>
+        <g id="svg_23"/>
+        <g id="svg_24"/>
+    </g>
+</svg>
